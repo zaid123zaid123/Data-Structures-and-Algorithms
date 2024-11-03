@@ -1,16 +1,5 @@
-#Arrays are one of the most commonly-used data structures
-#The elements of an array are stored in contiguous memory locations
-#Arrays are of two types : Static and Dynamic
-#Static arrays have fixed, pre-defined amount of memory that they can use, whereas in dynamic arrays this is flexible
-#In Python we only have dynamic arrays
-#Some basic operations and their complexities are given below :
 
-#Look-up/Accses - O(1)
-#Push/Pop - O(1)*
-#Insert - O(n)
-#Delete - O(n)
-
-import string
+import strin
 import random
 # Sum Func 
 
