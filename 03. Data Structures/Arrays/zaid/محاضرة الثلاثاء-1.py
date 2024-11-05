@@ -21,5 +21,7 @@
 # print(list2<=list1)
 # print(list2<=list1)
 
-items="welcome to the SCME".split()
-print(items)
+# items="welcome to the SCME".split()
+# print(items)
+
+
