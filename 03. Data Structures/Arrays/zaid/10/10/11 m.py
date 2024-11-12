@@ -35,11 +35,12 @@
 
 
 
-def linearSearch(lst, key):
-    for i in range(0, len(lst)):
-        if key == lst[i]:
-          return i
-         return -1
+# def linearSearch(lst, key):
+#     for i in range(0, len(lst)):
+#         if key == lst[i]:
+#           return i
+#          return -1
+
 
 
 
